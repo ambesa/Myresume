@@ -1,6 +1,6 @@
 
 jQuery(document).ready(() => {
-    // Logo animation
+    // Logo animation/////////
     const $logo = $("#logo");
     if (location.href.indexOf("#") !== -1) {
       $logo.show();
